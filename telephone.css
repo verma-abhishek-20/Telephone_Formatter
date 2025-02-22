@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+input{
+    width: 270px;
+    height: 40px;
+    font-size: 1.4rem;
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 20px;
+}
+div{
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
